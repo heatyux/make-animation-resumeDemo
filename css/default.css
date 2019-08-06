@@ -1,0 +1,16 @@
+*{margin: 0;padding: 0;}
+*{box-sizing: border-box;}
+
+.token.selector,
+.token.property{
+  color: black;
+}
+
+#code {
+  height: 100vh;
+  overflow: hidden;
+}
+
+#paper > .content {
+  padding-left: 16px;
+}
